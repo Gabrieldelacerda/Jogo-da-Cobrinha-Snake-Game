@@ -12,7 +12,7 @@ import random
 
 LARGURA_JOGO = 1100   #largura da janela do jogo
 ALTURA_JOGO = 800   #altura da janela do jogo
-VELOCIDADE_COBRA = 90    #ATENÇÃO: quanto mais baixo este número, mais rápido é o jogo! Esta é a constante da velocidade da cobra
+VELOCIDADE_COBRA = 110    #ATENÇÃO: quanto mais baixo este número, mais rápido é o jogo! Esta é a constante da velocidade da cobra
 TAMANHO_ESPACOS = 50    #tamanho de itens como a comida e o tamanho das partes da cobra
 PARTES_CORPO = 2         #quantas partes tem o corpo da cobra ao iniciar o jogo
 COR_COBRA = "#000080"    #cor da cobra em hexadecimal, nesse caso, deixei com a cor 'Navy Blue'
